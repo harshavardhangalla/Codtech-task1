@@ -1,3 +1,4 @@
+
 NAME:Galla Harsha Vardhan COMPANY:CODTECH IT SOLUTIONS 
 ID:CT08DWO
 DOMAIN:FULL SATCK WEB DEVELOPMENT DURATION: DEC 17 2024 TO JAN 17 2025 MENTOR:SRAVANI GOUNI
@@ -20,3 +21,4 @@ Responsive Design: The website is mobile-friendly and adjusts its layout for dif
 
 OUTPUT
 ![IMG-20241228-WA0005](https://github.com/user-attachments/assets/a0c70732-d9b4-471d-b540-e70c3bdf34ac)
+![IMG-20241228-WA0006](https://github.com/user-attachments/assets/336b34a1-4d27-4bc4-b671-63d2609a5583)
